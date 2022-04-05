@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <title>Learn HTML</title>
 </head>
-<body>
+<body bgcolor="#FFF5EE">
+
 <section class="section_1" id="sect1">
     <p style="color:Tomato;"><strong>Задание 1</strong></p>
         <h1>Отрывок из поэмы</h1>
@@ -38,7 +39,7 @@
        </ol>
 </section><br>
 <section class="section_5" id="sect5">
-    <p style="color:MediumOrchid;"><strong>Задание 5</strong></p>
+    <p style="color:Chocolate;"><strong>Задание 5</strong></p>
        <p><b>Фильмы-победители Оскар за последние 6 лет</b></p>
        <ul style="list-style-type:square">
        <li>«В центре внимания»-2016</li>
@@ -294,18 +295,10 @@
   </tr>
 </table>      
 </section><br>  
-<section class="section_10" id="sect10">
-  <p style="color:RoyalBlue;"><strong>Задание 10</strong></p>   
-     <iframe
-                width="854" height="480" 
-                src="https://www.youtube.com/watch?v=4jYYHaTwWvY" 
-                title="YouTube video player" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen>
-            </iframe>
-        </video>
-</section> 
+    <section class="section_10" id="sect10">
+        <p style="color:RoyalBlue;"><strong>Задание 10</strong></p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/KiMtkJw-4gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section> 
 <section class="section_11" id="sect11">
   <p style="color:MediumVioletRed;"><strong>Задание 11</strong></p> 
   <div style="position:relative;overflow:hidden;">
