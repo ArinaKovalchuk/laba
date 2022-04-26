@@ -78,7 +78,7 @@
     <input type='text' name='username' required>
     <label>Телефон</label>
     <input type='text'  name='usernumber' required>
-    <label>Сообщение</label>
+    <label>Сообщеение</label>
     <input type="text"   name="question">
     <input type="submit" class ="type-1"> 
     </fieldset>
