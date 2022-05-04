@@ -6,7 +6,35 @@
         <title>Learn.html</title>
         <link rel="stylesheet" href="style.css"> 
 </head>
-<body>                                    
+<body>  
+  <style>
+    @media (max-width: 757px){
+    section{
+    background-color: #77dde7;
+    color: #7f0083;
+    }
+    }
+    @media (min-width:768px) and (max-width:1365px) {
+    section{
+    background-color: #fff8dc;
+    color: #8B4513;
+    }
+    }
+    body{
+    margin: 0;
+    animation-duration: 3s; animation-name: slidein
+    }
+    @keyframes slidein{
+    from{
+    margin-left: 100%;
+    width: 300%;
+    }
+    to{
+    margin-left: 0%;
+    width: 100%;
+    }
+    }
+    </style>                                  
 <section class="section_1" id="sect1">
     <p style="color:Tomato;"><strong>Задание 1</strong></p>
         <h1><font color="#008000">Отрывок</font>  из поэмы</h1>
